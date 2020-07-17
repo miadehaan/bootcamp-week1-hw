@@ -2,48 +2,10 @@
 Homework 1
 # 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+For homework 1, I cleaned up the existing code and utilized semantic elements. I replaced all the <div> tags with more meaningful elements such as: <main>, <section>, <aside>, etc. I made sure that all of the images had alt tags. I added some comments for each section to make the code more clear and descriptive about which section it was targetting. I consolidated a lot of the css code becuase some of it was redundant, as well as removed some of the class tags in the html that were redundant and just made the code more difficult to read. I re-ordered the css code to more logically to match the sections in the html. Lastly, I made sure that the webpage still looked the same as the original version, and made sure that all click-able links worked. 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+* The URL of the deployed application: http://miadehaan.github.io/bootcamp-week1-hw/
 
-> Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-
- Original Webpage: file:///C:/Users/Maria/Desktop/UO%20Bootcamp/gitlab/uofo-por-fsf-pt-07-2020-u-c/01-HTML-Git-CSS/02-Homework/Develop/index.html
-
- http://miadehaan.github.io/reponame/index.html
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project:
+https://github.com/miadehaan/bootcamp-week1-hw 
 
