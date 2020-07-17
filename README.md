@@ -42,3 +42,8 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+
+ Original Webpage: file:///C:/Users/Maria/Desktop/UO%20Bootcamp/gitlab/uofo-por-fsf-pt-07-2020-u-c/01-HTML-Git-CSS/02-Homework/Develop/index.html
+
+ http://miadehaan.github.io/reponame/index.html
+
